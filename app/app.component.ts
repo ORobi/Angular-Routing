@@ -7,5 +7,5 @@ import {ProductListComponent} from './products/product-list.component';
     directives:[ProductListComponent]
 })
 export class AppComponent {
-    pageTitle: string='Product Demo1'
+    pageTitle: string='Product Demo111'
 }
